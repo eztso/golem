@@ -49,4 +49,5 @@ numpy==1.13.1
 scipy==0.19.1
 pyssim
 enforce==0.3.4
--e git://github.com/golemfactory/golem-messages.git@v1.0.1#egg=golem_messages
+# TODO: change this after merging golem-messages
+-e git://github.com/golemfactory/golem-messages.git@response-to-report-compute-task#egg=golem_messages
